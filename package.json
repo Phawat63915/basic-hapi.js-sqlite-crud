@@ -1,0 +1,16 @@
+{
+  "name": "basic-hapi.js-sqlite-crud",
+  "version": "1.0.0",
+  "description": "Node RESAPI Hapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.3",
+    "sqlite3": "^5.1.7"
+  }
+}
